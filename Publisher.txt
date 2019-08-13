@@ -1,0 +1,8 @@
+10000, Wiley, 970-555-5000 (o)
+10001, McGraw-Hill, 970-555-5010 (o)
+10002, Coyote Publishing, 970-555-5020 (o)
+10003, Amazon, 970-555-5030 (o)
+10004, Jerrys Ice Cream, 970-555-5040 (o)
+10005, Buy a Boat, 970-555-5050 (o)
+10006, Flagstaff Publishing, 970-555-5060 (o), 970-555-5070 (c)
+10007, Ram West, 970-555-5080 (o)
